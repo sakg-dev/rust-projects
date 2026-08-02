@@ -2,5 +2,5 @@ Fibonacci Series Calculator
 
 e.g: f(8) -> 0, 1, 1, 2, 3, 5, 8, 13
 
-for topics: loops, and other
+for topics: loops, Refernce, std and other
 
